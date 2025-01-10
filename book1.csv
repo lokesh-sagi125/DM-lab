@@ -1,0 +1,11 @@
+patient_id,provider_number,patient_name,admission_date,discharge_date,bed_count,diagnosis
+1,10164,John Doe,2023-01-15,2023-01-20,2,Flu
+2,10165,Jane Smith,2023-02-10,2023-02-15,1,Cold
+3,10164,Samuel Green,2023-03-12,2023-03-20,3,COVID-19
+4,10166,Emily White,2023-04-01,2023-04-05,1,Flu
+5,10164,Michael Brown,2023-05-10,2023-05-15,2,Cold
+6,10164,Lucy Black,2023-06-11,2023-06-16,1,COVID-19
+7,10165,James Turner,2023-07-08,2023-07-12,1,Flu
+8,10167,Susan Wilson,2023-08-22,2023-08-27,2,Flu
+9,10164,David King,2023-09-10,2023-09-15,1,Cold
+10,10164,Anna Lee,2023-10-05,2023-10-12,3,COVID-19
